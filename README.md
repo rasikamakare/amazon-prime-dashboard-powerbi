@@ -17,7 +17,7 @@ This project analyzes Amazon Prime Video’s global catalog using Power BI to un
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard Screenshot](amazon_prime_dashboard.png)
+![Dashboard Screenshot]([amazon_prime_dashboard.png](https://github.com/rasikamakare/amazon-prime-dashboard-powerbi/blob/main/Amazon%20Prime%20Video.png))
 
 ## Outcome
 This dashboard helps understand content trends and supports data-driven decisions for OTT platforms.
